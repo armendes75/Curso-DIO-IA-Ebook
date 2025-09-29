@@ -5,6 +5,9 @@ Conteúdo criado para curso da DIO no desafio de projeto: Criação de um Ebook 
 - ChatGPT
 - Power Point
 
+## Arquido do Ebook
+O arquivo do Ebook esta na pasta Output
+
 ## Prompts utilizados:
 
 ### Criação da Imgem de Capa - Baseado em Titulo e subtitulo definido
